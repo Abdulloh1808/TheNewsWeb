@@ -141,17 +141,16 @@ h3{
     font-size: 22px;
     line-height: 26px;
     margin: 20px 0 30px;
-    width: 80%;
 }
 .box_right p{
     font-size: 18px;
-    line-height: 23px;
+    line-height: 20px;
     color: #686868;
     max-width: 540px;
     width: 100%;
     display: flex;
     text-align: justify;
-    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
 footer{
     width: 100%;

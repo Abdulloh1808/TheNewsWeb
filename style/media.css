@@ -93,7 +93,7 @@
     }
     .box_right p{
         font-size: 16px;
-        line-height: 16px;
+        line-height: 100%;
     }
     .box_right h3{
         margin: 10px 0 17px;
@@ -181,7 +181,6 @@
         width: 80%;
     }
     .box_right{
-        height: 70%;
         width: 80%;
         margin-bottom: 0;
     }
@@ -249,7 +248,7 @@
         font-size: 17px;
     }
     .box_right p{
-        font-size: 14px;
+        font-size: 15px;
     }
     .box_left{
         height: 90%;
@@ -342,9 +341,7 @@
     .box_right{
         width: 100%;
     }
-    .box_right p{
-        font-size: 12px;
-    }
+
     .box_right h3{
         font-size: 14px;
         margin-bottom: 6px;
@@ -391,7 +388,7 @@
         margin-top: 8px;
     }
     .box_right p{
-        font-size: 11px;
+        font-size: 12px;
     }
     .header_title,
     .footer_title{
@@ -422,7 +419,5 @@
         font-size: 14px;
         line-height: 15px;
     }
-    .box_right p{
-        font-size: 10px;
-    }
+  
 }
